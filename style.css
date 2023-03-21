@@ -1,0 +1,48 @@
+*{
+    color:#999;
+    margin: 0px;
+    padding: 0;
+}
+
+.clear{
+    overflow: hidden;
+}
+
+
+
+
+a{
+    font-family: 'Roboto', sans-serif;
+    color: #999;
+
+    
+}
+
+
+/* 
+h2{
+    color: #999;
+} */
+
+.travel_image:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.bolt{
+    font-weight: bold;
+}
+
+.pp{
+    text-align: justify;
+}
+
+::selection{
+    background-color: tomato;
+    color: white;
+}
+
+.ami{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
